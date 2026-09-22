@@ -10,3 +10,6 @@ This app would be a local AI system that automatically detects your computer’s
 
 Basically,
 A local software solution that optimizes your computer based on its hardware, recommends suitable AI models and software, monitors resource usage, manages background processes, and gives a local AI controlled access to files, folders, terminals, and virtual machines for testing, debugging, and development.
+
+
+I also plan to integrate some of my (rangan's) projects into this optimization software solution so that for ai, or all these extra tools normally used on adeveloper's computers everything is properly planned out, debloated, etc. 
